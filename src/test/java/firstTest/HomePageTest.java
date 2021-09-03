@@ -6,7 +6,7 @@ import pages.HomePage;
 
 public class HomePageTest extends BaseTests {
 
-    @Test
+    @Test()
     public void HomePageOpenSuccessfully(){
 
     }
